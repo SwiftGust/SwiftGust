@@ -32,7 +32,7 @@ working as aerial robotics engineer -->
    * Aircraft Design & Aerodynamic Performance Optimization
  * High Performance Computing for Realtime Onboard Applications
    * Concurrent Programming
-   * Parallel Computing(SIMD, CUDA, ...)
+   * Parallel Computing(SIMD, CUDA, and other feasible solutions)
 
 ## Skills
  * ROS
@@ -40,7 +40,6 @@ working as aerial robotics engineer -->
    * ArduPilot
    * PX4
  * Gazebo Simulator
-<!--  * Understanding of the Opensource Autopilot ArduPilot & PX4 -->
  * Linux Ubuntu
 
 ### Programming Skills

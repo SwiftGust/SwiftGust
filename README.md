@@ -52,3 +52,5 @@ working as aerial robotics engineer -->
 
 ### Other
   * LaTeX
+
+![profile_view_counter](https://komarev.com/ghpvc/?username=SwiftGust&color=blue)

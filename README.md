@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!-- ### About 
 I'm Flight Control Engineer based 
 Graduated M.Sc & Bachelor with focus on flight control & autonomy in Aerospace Enginnering 
-Focuses on engineering things to really work 
+Focuses on engineering make things to really work, proven contestant 
 working as aerial robotics engineer -->
+
 ## Interests
  * **Autonomous Aerial Systems**
    * Guidance
@@ -53,4 +54,6 @@ working as aerial robotics engineer -->
 ### Other
   * LaTeX
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwiftGust%2FSwiftGust&count_bg=%233D4BC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![profile_view_counter](https://komarev.com/ghpvc/?username=SwiftGust&color=blue)

@@ -35,10 +35,11 @@ working as aerial robotics engineer -->
    * Parallel Computing(SIMD, CUDA, and other feasible solutions)
 
 ## Skills
- * ROS
  * Flight Controller Understanding, Design & Tuning for sUAS
    * ArduPilot
    * PX4
+ * Flight Log Analysis
+ * ROS
  * Gazebo Simulator
  * Linux Ubuntu
 
@@ -47,10 +48,10 @@ working as aerial robotics engineer -->
  * Python
  * MATLAB & Simulink
  * Shell
- * CMake
  * CUDA
 
-### Other
+### Tools
+  * CMake
   * LaTeX
 
 

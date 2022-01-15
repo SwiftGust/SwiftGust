@@ -41,6 +41,9 @@ working as aerial robotics engineer -->
  * Flight Log Analysis
  * ROS
  * Gazebo Simulator
+ * Blender
+ * Eigen
+ * OpenCV
  * Linux Ubuntu
 
 ### Programming Skills
